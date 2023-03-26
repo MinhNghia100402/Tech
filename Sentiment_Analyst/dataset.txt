@@ -1,0 +1,7 @@
+dataset 
+
+https://huggingface.co/ncduy/phobert-large-finetuned-vietnamese_students_feedback?text=I+like+you.+I+love+you
+
+stop_words 
+
+https://github.com/stopwords/vietnamese-stopwords/blob/master/vietnamese-stopwords.txt
